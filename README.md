@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Spotify.jpg" width="100%"/>
+<img src="Spotify.jpg" width="100%" height="30%"/>
 </div>
 
 # 💻 Tech Stack:
